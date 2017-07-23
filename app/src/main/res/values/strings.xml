@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyFP</string>
+    <string name="action_strings">Strings</string>
+    <string name="provider_gps">GPS</string>
+    <string name="provider_network">Network</string>
+    <string name="location_settings">Location settings</string>
+    <string name="send_positions">Send Positions</string>
+</resources>
